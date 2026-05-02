@@ -10,7 +10,13 @@ body {
   background: url('https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg') no-repeat center center fixed;
   background-size: cover;
 }
-
+.date-text {
+  font-size: 1.8em;
+  margin-top: 10px;
+  color: #FFD700; /* gold color */
+  letter-spacing: 2px;
+  text-shadow: 0 0 10px rgba(255,215,0,0.8);
+}
 /* Dark overlay */
 .overlay-bg {
   position: fixed;
